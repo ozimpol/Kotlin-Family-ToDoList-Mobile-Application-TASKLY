@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="My Tasks"
+        android:id="@+id/mytasks"
+        android:icon="@drawable/member"/>
+    <item android:title="Family"
+          android:id="@+id/family"
+          android:icon="@drawable/family_12585230"/>
+    <item android:title="Family Tasks"
+          android:id="@+id/familytasks"
+          android:icon="@drawable/shelter_2948137"/>
+</menu>
